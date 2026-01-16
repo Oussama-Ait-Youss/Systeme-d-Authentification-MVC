@@ -1,37 +1,12 @@
 <?php
+require '../vendor/autoload.php';
 
-    session_start();
+echo "hello world oussama";
 
-
-
-
-    // class App{
-         function splitURL(){
-       if ($_GET['url']) {
-        # code...
-        $URL = explode("/",$_GET['url']);
-       }else{
-            $URL = 'home';
-       }
-       return $URL;
-   }
-   function loadController(){
-        $URL = splitURL();
-        $filename = "../app/controllers/" . $URL[0] . ".php";
-        if(file_exists($filename)){
-            require $filename;
-            }else{
-                
-                $filename = "../app/controllers/_404.php";
-                require $filename;
-        }
-    }
-    // }
-   
-
- 
-    
-
-
-    loadController();
+// $router = new Router();
+// $router->get(HomeController::class,'admin','/admin');
+// $router->get(HomeController::class,'index','/');
+// $router->get(HomeController::class,'login','/login');
+// $router->get(HomeController::class,'register','/register');
+// $router->dispatch();
 
