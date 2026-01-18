@@ -1,0 +1,154 @@
+2026-01-17T23:51:25+00:00 Array
+(
+    [REQUEST_URI] => /SystemeAuth_MVC/public/index.php
+    [SCRIPT_NAME] => /SystemeAuth_MVC/public/index.php
+    [COMPUTED_CANDIDATES] => Array
+        (
+            [0] => /index.php
+        )
+
+    [AVAILABLE_ROUTES] => Array
+        (
+            [0] => /
+            [1] => /auth/login
+            [2] => /auth/register
+            [3] => /auth/logout
+            [4] => /candidate/dashboard
+            [5] => /recruiter/dashboard
+            [6] => /admin/dashboard
+        )
+
+)
+
+2026-01-17T23:51:47+00:00 Array
+(
+    [REQUEST_URI] => /SystemeAuth_MVC/public/index.php
+    [SCRIPT_NAME] => /SystemeAuth_MVC/public/index.php
+    [COMPUTED_CANDIDATES] => Array
+        (
+            [0] => /index.php
+        )
+
+    [AVAILABLE_ROUTES] => Array
+        (
+            [0] => /
+            [1] => /auth/login
+            [2] => /auth/register
+            [3] => /auth/logout
+            [4] => /candidate/dashboard
+            [5] => /recruiter/dashboard
+            [6] => /admin/dashboard
+        )
+
+)
+
+2026-01-17T23:51:48+00:00 Array
+(
+    [REQUEST_URI] => /SystemeAuth_MVC/public/index.php
+    [SCRIPT_NAME] => /SystemeAuth_MVC/public/index.php
+    [COMPUTED_CANDIDATES] => Array
+        (
+            [0] => /index.php
+        )
+
+    [AVAILABLE_ROUTES] => Array
+        (
+            [0] => /
+            [1] => /auth/login
+            [2] => /auth/register
+            [3] => /auth/logout
+            [4] => /candidate/dashboard
+            [5] => /recruiter/dashboard
+            [6] => /admin/dashboard
+        )
+
+)
+
+2026-01-17T23:51:49+00:00 Array
+(
+    [REQUEST_URI] => /SystemeAuth_MVC/public/index.php
+    [SCRIPT_NAME] => /SystemeAuth_MVC/public/index.php
+    [COMPUTED_CANDIDATES] => Array
+        (
+            [0] => /index.php
+        )
+
+    [AVAILABLE_ROUTES] => Array
+        (
+            [0] => /
+            [1] => /auth/login
+            [2] => /auth/register
+            [3] => /auth/logout
+            [4] => /candidate/dashboard
+            [5] => /recruiter/dashboard
+            [6] => /admin/dashboard
+        )
+
+)
+
+2026-01-17T23:51:57+00:00 Array
+(
+    [REQUEST_URI] => /SystemeAuth_MVC/index.php
+    [SCRIPT_NAME] => /SystemeAuth_MVC/public/index.php
+    [COMPUTED_CANDIDATES] => Array
+        (
+            [0] => /SystemeAuth_MVC/index.php
+        )
+
+    [AVAILABLE_ROUTES] => Array
+        (
+            [0] => /
+            [1] => /auth/login
+            [2] => /auth/register
+            [3] => /auth/logout
+            [4] => /candidate/dashboard
+            [5] => /recruiter/dashboard
+            [6] => /admin/dashboard
+        )
+
+)
+
+2026-01-17T23:52:00+00:00 Array
+(
+    [REQUEST_URI] => /SystemeAuth_MVC/
+    [SCRIPT_NAME] => /SystemeAuth_MVC/public/index.php
+    [COMPUTED_CANDIDATES] => Array
+        (
+            [0] => /SystemeAuth_MVC
+        )
+
+    [AVAILABLE_ROUTES] => Array
+        (
+            [0] => /
+            [1] => /auth/login
+            [2] => /auth/register
+            [3] => /auth/logout
+            [4] => /candidate/dashboard
+            [5] => /recruiter/dashboard
+            [6] => /admin/dashboard
+        )
+
+)
+
+2026-01-18T00:10:20+00:00 Array
+(
+    [REQUEST_URI] => /SystemeAuth_MVC/auth/loginlasdjkf
+    [SCRIPT_NAME] => /SystemeAuth_MVC/public/index.php
+    [COMPUTED_CANDIDATES] => Array
+        (
+            [0] => /auth/loginlasdjkf
+        )
+
+    [AVAILABLE_ROUTES] => Array
+        (
+            [0] => /
+            [1] => /auth/login
+            [2] => /auth/register
+            [3] => /auth/logout
+            [4] => /candidate/dashboard
+            [5] => /recruiter/dashboard
+            [6] => /admin/dashboard
+        )
+
+)
+

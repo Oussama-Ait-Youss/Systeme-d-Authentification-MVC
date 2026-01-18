@@ -16,7 +16,7 @@
 
         <div id="registerError" class="text-red-500 text-sm text-center min-h-[20px]"></div>
 
-        <form id="registerForm" action="/TalentHub/public/auth/registerPost" method="POST" class="mt-8 space-y-6">
+        <form id="registerForm" action="<?php echo BASE_URL; ?>/auth/registerPost" method="POST" class="mt-8 space-y-6">
             
             <div>
                 <label for="username" class="block text-sm font-medium text-gray-700">Full Name</label>
@@ -65,11 +65,11 @@
         <div class="text-center text-sm">
             <p class="text-gray-600">
                 Already have an account? 
-                <a href="./login.php" class="font-medium text-indigo-600 hover:text-indigo-500">Log in</a>
+                <a href="<?php echo BASE_URL; ?>/auth/login" class="font-medium text-indigo-600 hover:text-indigo-500">Log in</a>
             </p>
         </div>
     </div>
 
-    <script src="../../public/assets/js/validation.js"></script>
+    <script src="<?php echo ASSETS_URL; ?>/js/validation.js"></script>
 </body>
 </html>
